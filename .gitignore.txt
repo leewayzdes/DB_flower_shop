@@ -1,0 +1,29 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore IntelliJ IDEA project files and settings
+.idea/
+*.iml
+*.xml
+
+# Ignore build directories
+out/
+build/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore database credentials or local config files (if any)
+config.properties
+.env
+
+# Ignore dependency libraries (if using Maven or Gradle, dependencies should be handled by pom.xml or build.gradle)
+lib/
+
+# Ignore DBeaver workspace settings
+.dbeaver/
+
+# Ignore OS-specific files (optional)
+.DS_Store  # macOS
+Thumbs.db  # Windows
