@@ -1,7 +1,7 @@
 # Flower Shop Management System
 
-
 Petproject: 
+
 Приложение для управления цветочным магазином на Java с подключением к PostgreSQL.
 
 ### Функции:
